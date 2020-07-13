@@ -12,7 +12,6 @@
 
 <p align="center">
   <a href="">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
 </p>
 
 ## Sobre
@@ -28,10 +27,6 @@ A aplicação esta hospedada no **[https://in8-exercise.web.app/](https://in8-ex
 
 
 Para executar o projeto basta dar um `git clone https://github.com/tiagofsv95/in8.git` no seu console e depois `yarn` para instalar as dependencias. Depois de instalar todas as dependencias basta executar `yarn start`.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
